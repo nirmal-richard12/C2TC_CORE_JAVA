@@ -1,4 +1,4 @@
-package com.tns.ifet.assignment1.employee;
+package com.tns.ifet.assignments1.employee;
 public class Employee {
  private String name;
  private int employeeId;

@@ -1,7 +1,7 @@
-package com.tns.ifet.assignment1.employeeutilities;
-import com.tns.ifet.assignment1.employee.Developer;
-import com.tns.ifet.assignment1.employee.Employee;
-import com.tns.ifet.assignment1.employee.Manager;
+package com.tns.ifet.assignments1.employeeutilities;
+import com.tns.ifet.assignments1.employee.Developer;
+import com.tns.ifet.assignments1.employee.Employee;
+import com.tns.ifet.assignments1.employee.Manager;
 public class EmployeeUtilities {
  public static void printEmployeeDetails(Employee employee) {
  System.out.println("Employee Name: " + employee.getName());
